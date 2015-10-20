@@ -1,0 +1,9 @@
+body{
+	min-width:880px;
+}
+.intro .intro-text span{
+	background:url(../images/bg-intro.png);
+}
+.carousel .text-holder{
+	background:url(../images/bg-carousel.png);
+}
